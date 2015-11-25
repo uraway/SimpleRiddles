@@ -1,0 +1,12 @@
+{
+  "name": "SimpleRiddles",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "deep-diff": "^0.3.3",
+    "react-native": "^0.16.0-rc"
+  }
+}
